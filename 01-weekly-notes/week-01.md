@@ -1,5 +1,4 @@
 #Tuần 1
-##Ngày 1
 ##Đã làm
 - Tạo repo SOC-homelab trên github
 - Cài openssh-server rsyslog -y(tạo log để đăng nhập ssh) ,phân tích grep/awk
